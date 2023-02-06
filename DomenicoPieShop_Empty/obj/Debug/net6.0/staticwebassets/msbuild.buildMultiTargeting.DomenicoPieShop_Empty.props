@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DomenicoPieShop_Empty.props" />
+</Project>
